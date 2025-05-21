@@ -1,12 +1,21 @@
-# React + Vite
+Github REpo Link:  https://github.com/RudraPratap-CodeRunner/todoapp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Note: Project is not copied.
 
-Currently, two official plugins are available:
+Steps to run the project :
+1. Clone the repository
+    git clone https://github.com/RudraPratap-CodeRunner/todoapp.git
+2. Change directory
+    cd todoapp
+3. run command on terminal
+   npm install
+4. now run command
+   npm run dev      
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+project have all the frequired features. Project is made with react.js.S
 
-## Expanding the ESLint configuration
+one can add, edit delete and mark completed the task.
+It have Header, ToDoItem and ToDoList components.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+For styling tailwind css is used.
+
